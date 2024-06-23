@@ -1,0 +1,8 @@
+.main-container{
+  background-color: azure;
+  min-height: 100vh;
+  padding: 15px;
+}
+.heading{
+  color: rgb(249, 71, 11);
+}

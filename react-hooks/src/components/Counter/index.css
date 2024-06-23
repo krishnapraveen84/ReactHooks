@@ -1,0 +1,16 @@
+.counter-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.btn{
+    outline: none;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border-style: none;
+    margin: 15px;
+    padding: 10px;
+    width: 180px;
+}
